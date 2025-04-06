@@ -1,0 +1,1 @@
+Implementation of Auto-Scaling, aims at mimicking the auto-scaling function of AWS Cloud. The goal is to dynamically manage computational resources for a face recognition system. Depending on the number of requests present in the queue, an appropriate number of instances are started to identify the person in the given image.
